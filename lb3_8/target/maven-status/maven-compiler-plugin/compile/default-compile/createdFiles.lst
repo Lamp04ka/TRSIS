@@ -1,0 +1,7 @@
+labs\lb3\service\BirjaServiceImpl.class
+labs\lb3\config\WebSecurityConfig.class
+labs\lb3\model\classBirja.class
+labs\lb3\rest\BirjaController.class
+labs\lb3\config\ControllersConfig.class
+labs\lb3\service\BirjaService.class
+labs\lb3\Lb3Application.class
